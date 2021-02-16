@@ -1,0 +1,29 @@
+body{
+    text-align: justify;
+    font-family: fantasy;
+   
+    font-size: 22px;
+    color: black;
+    background-color: burlywood;
+}button {
+    
+    margin-left: 20px;
+      padding: 0px 0px;
+      background-color:rgb(230, 203, 203);
+      border: none;
+      border-radius: 50px;
+      cursor: pointer; ;
+      transition:all 0.3s ease 0s ;
+  }
+  button:hover{
+      background-color: rgba(204, 242, 252, 0.8);
+  }
+  h1 {
+    color: white;
+    font-family: fantasy;
+    font-size: 100px;
+    text-align: center;
+    
+}
+
+p{padding-top: 10%;}
